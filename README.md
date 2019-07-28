@@ -3,22 +3,25 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover:
 
-* Ruby version
+# RAILS 5 REST API
 
-* System dependencies
+This simple rails project is a basic REST API bilt to perform CRUD functions. Uses postgresql.
 
-* Configuration
+## RUBY VERSION
+```ruby 2.5.1p57
+```
 
-* Database creation
+## INSTALL DEPENDENCIES
+```bash
+$ bundle install
+```
 
-* Database initialization
+## RUN MIGRATION
+```bash
+$ rails db:migrate
+```
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## RUN SERVER
+```bash
+$ rails s
