@@ -5,8 +5,7 @@ This simple rails project is a basic back-end REST API built to perform CRUD fun
 I have used Postman, a great tool to test the API's functionality, which offers a user interface with which to make HTML requests.
 
 ## RUBY VERSION
-```
-ruby 2.5.1p57
+```ruby 2.5.1p57
 ```
 
 ## INSTALL DEPENDENCIES
